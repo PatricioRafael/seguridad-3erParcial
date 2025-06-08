@@ -1,0 +1,115 @@
+﻿header {
+    background-color: #FFF;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #FF4F00;
+}
+
+footer {
+    background-color: #004B8E;
+}
+
+h5 {
+    font-weight: 700;
+}
+
+    h5.title {
+        color: #FF4F00;
+    }
+
+    h5.subtitle {
+        color: #808080;
+    }
+
+#copyright {
+    margin: 10px 0px;
+}
+
+#content-body {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#principal .panel {
+    margin-top: 15px;
+}
+
+    #principal .panel h5 {
+        margin-top: 0px;
+    }
+
+
+.bt .btn-link, .bt input {
+    display: inline-block;
+    zoom: 1;
+    
+    vertical-align: baseline;
+    margin: 0 2px;
+    outline: 0;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    padding: .3em 1em .44em;
+    text-shadow: 0 1px 1px rgba(0,0,0,.3);
+    -webkit-border-radius: .5em;
+    -moz-border-radius: .5em;
+    border-radius: .5em;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+    -moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+    box-shadow: 0 1px 2px rgba(0,0,0,.2);
+}
+
+.bt .btn-link, .bt input {
+    color: #fef4e9;
+    border: solid 1px #da7c0c;
+    background: #f78d1d;
+    background: -webkit-gradient(linear,left top,left bottom,from(#faa51a),to(#f47a20));
+    background: -moz-linear-gradient(top,#faa51a,#f47a20);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#faa51a', endColorstr='#f47a20');
+}
+
+    .bt .btn-link:hover, .bt input:hover {
+        background: #f47c20;
+        background: -webkit-gradient(linear,left top,left bottom,from(#f88e11),to(#f06015));
+        background: -moz-linear-gradient(top,#f88e11,#f06015);
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f88e11', endColorstr='#f06015');
+    }
+
+    .bt .btn-link:active, .bt input:active {
+        color: #fcd3a5;
+        background: -webkit-gradient(linear,left top,left bottom,from(#f47a20),to(#faa51a));
+        background: -moz-linear-gradient(top,#f47a20,#faa51a);
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f47a20', endColorstr='#faa51a');
+    }
+
+.container .bt input {
+    float: right;
+    margin: 0;
+}
+
+.number-create {
+    text-align: center;
+    color: gray;
+    font-family: 'Formata-BoldItalic', sans-serif;
+    font-size: 31px;
+}
+
+.sp-main-chat-1, .sp-main-security-1 {
+    background-position: -91px -100px;
+    width: 17px;
+    height: 16px;
+}
+
+.up {
+    display: inline-block;
+    text-indent: -9999em;
+    overflow: hidden;
+    background-image: url(../images/main.png);
+    background-repeat: no-repeat;
+    width: 16px;
+    height: 16px;
+}
+
+

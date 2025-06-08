@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 07 Jun 2025 18:27:56 at https://www.bancaporinternet.bcp.com.bo/Account/Login +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://www.bancaporinternet.bcp.com.bo/Account/Login -O1 "C:\Users\beima\OneDrive\Escritorio\seguridad\BCP" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:29:46	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.bancaporinternet.bcp.com.bo/Account/Login)
+18:29:48	Error: 	"Unknown error" (522) at link seal.globalsign.com/SiteSeal/gmogs_image_125-50_en_blue.js (from https://www.bancaporinternet.bcp.com.bo/Account/Login)
+18:29:48	Error: 	"Not Found" (404) at link https://www.bancaporinternet.bcp.com.bo/Content/stylesheets/Projekktor/noise.gif (from https://www.bancaporinternet.bcp.com.bo/Content/stylesheets/Projekktor/projekktor.style.css)
+18:29:48	Error: 	"Not Found" (404) at link https://www.bancaporinternet.bcp.com.bo/Content/stylesheets/img/tarjeta-credito.jpg (from https://www.bancaporinternet.bcp.com.bo/Content/stylesheets/soho/style.css)
+18:29:48	Error: 	"Not Found" (404) at link https://www.bancaporinternet.bcp.com.bo/Content/stylesheets/img/arrowdown.png (from https://www.bancaporinternet.bcp.com.bo/Content/stylesheets/soho/style.css)
+18:29:48	Error: 	"Not Found" (404) at link https://www.bancaporinternet.bcp.com.bo/Content/stylesheets/img/lupa-buscador.jpg (from https://www.bancaporinternet.bcp.com.bo/Content/stylesheets/soho/style.css)
+18:29:48	Error: 	"Not Found" (404) at link https://www.bancaporinternet.bcp.com.bo/Content/stylesheets/img/indicador.png (from https://www.bancaporinternet.bcp.com.bo/Content/stylesheets/soho/style.css)
+18:29:48	Error: 	"Not Found" (404) at link https://www.bancaporinternet.bcp.com.bo/Content/img/couple.png (from https://www.bancaporinternet.bcp.com.bo/Content/stylesheets/soho/style.css)
+18:29:48	Error: 	"Not Found" (404) at link https://www.bancaporinternet.bcp.com.bo/Content/img/lupa-buscador.jpg (from https://www.bancaporinternet.bcp.com.bo/Content/stylesheets/soho/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 52 seconds : 77 links scanned, 67 files written (3014508 bytes overall) [1042115 bytes received at 9304 bytes/sec], 2593688 bytes transferred using HTTP compression in 35 files, ratio 21%
+(9 errors, 0 warnings, 0 messages)

@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.bancaporinternet.bcp.com.bo	TRUE	/	FALSE	1999999999	IBKSessionId	wfcutoelqovtqcgh3towalte
+www.bancaporinternet.bcp.com.bo	TRUE	/	FALSE	1999999999	__RequestVerificationToken	n7lg7uibqlGARz8Z67y_qvYdkNzMmQuPof7SxkiUkIhShzUiXo0T92zeIMxlHRQJLkhc3WhXJ_knahFSXsiTJsCaxwni-3vStlUfN_qLt5s1
+www.bancaporinternet.bcp.com.bo	TRUE	/	FALSE	1999999999	SameSite	Strict
+
